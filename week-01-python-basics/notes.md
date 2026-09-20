@@ -20,8 +20,8 @@
 - How to use int, float, def, return functions.
 
 ## CS50P problem set completed
-[X] indoor.py
-[X] playback.py
-[X] faces.py
-[X] einstien.py
-[X] tip.py
+[Check out my script] (problem-set-0/indoor.py)
+[Check out my script] (problem-set-0/playback.py)
+[Check out my script] (problem-set-0/faces.py)
+[Check out my script] (problem-set-0/einstien.py)
+[Check out my script] (problem-set-0/tip.py)
