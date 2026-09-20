@@ -20,3 +20,8 @@
 - How to use int, float, def, return functions.
 
 ## CS50P problem set completed
+[X] indoor.py
+[X] playback.py
+[X] faces.py
+[X] einstien.py
+[X] tip.py
