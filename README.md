@@ -6,3 +6,4 @@ Tracking my self-study path from zero to AI engineer.
 
 |  01  | Python Basics  |  Functions, Variables
 |  02  | Python Basics  |  Conditionals
+|  03  | Python Basics  |  Loops

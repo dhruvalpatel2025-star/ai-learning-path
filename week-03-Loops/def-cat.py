@@ -1,0 +1,18 @@
+# PRint meow as mush time the user inputs using def function
+
+def main():
+    number = get_number()
+    meow(number)
+
+def get_number():
+    while True:
+        n = int(input("n = "))
+        if n > 0:
+            break
+    return n
+
+def meow(n):
+    for _ in range(n):
+        print("meow")
+
+main()
