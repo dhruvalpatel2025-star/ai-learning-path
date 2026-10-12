@@ -1,3 +1,5 @@
+# Use .keys() to retrieve an iterable view containing all the keys in that dictionary.
+
 distances = {
     "Voyager 1": 163,
     "voyager 2": 136,
@@ -11,6 +13,8 @@ def main():
         print(f"{name} is {distances[name]} AU from Earth")
 
 main()
+
+# Use .values() to extract all the values from a dictionary.
 
 distances = {
     "Voyager 1": 163,
